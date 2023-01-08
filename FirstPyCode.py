@@ -26,5 +26,5 @@ print(f"Hi, name's {name} i'm {age} in {level} working as a {Job} Engineer and i
 #or
 print("Hi, name's {} i'm {} in {} working as a {} Engineer and i'm a man that is {}".format(name, age, level, Job, man))
 #or
-bio = ("hi, i'm " + name + ", work as " + Job + " Engineer i'm " + str(age) + " also a man that is ", bool(man))
+bio = ("hi, i am " + name + ", work as " + Job + " Engineer i'm " + str(age) + " also a man that is ", bool(man))
 print(bio)
