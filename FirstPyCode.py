@@ -12,5 +12,7 @@ name = "Peterson"
 age = 24
 level = 300
 Job = "DevOps"
-vars = {name,age,level,Job}
+man = True
+vars = {name,age,level,Job,man}
 print(vars)
+print(type(man))
