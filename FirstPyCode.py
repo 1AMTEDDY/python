@@ -16,3 +16,15 @@ man = True
 vars = {name,age,level,Job,man}
 print(vars)
 print(type(man))
+
+#string concatenation
+print("Hi, I'm Peterson!," + " i am a Devops Engineer" + " learning Python")
+print("hi i'm" +  name + " I am a DevOps Engineer" + " 24 years old")
+
+#string interpolation add the f and parentheses to the code or use the .format method or you string coerce
+print(f"Hi, name's {name} i'm {age} in {level} working as a {Job} Engineer and i'm a man that is {man}")
+#or
+print("Hi, name's {} i'm {} in {} working as a {} Engineer and i'm a man that is {}".format(name, age, level, Job, man))
+#or
+bio = ("hi, i'm " + name + ", work as " + Job + " Engineer i'm " + str(age) + " also a man that is ", bool(man))
+print(bio)
