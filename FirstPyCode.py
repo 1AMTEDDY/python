@@ -28,3 +28,11 @@ print("Hi, name's {} i'm {} in {} working as a {} Engineer and i'm a man that is
 #or
 bio = ("hi, i am " + name + ", work as " + Job + " Engineer i'm " + str(age) + " also a man that is ", bool(man))
 print(bio)
+
+#inputs to get output
+
+age = input("What's your age?: ")
+name = input("What's your name?: ")
+bio = ("you are {} by name and you are {} by age".format(name, age))
+print(bio)
+
