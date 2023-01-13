@@ -17,7 +17,7 @@ vars = {name,age,level,Job,man}
 print(vars)
 print(type(man))
 
-#string concatenation
+#string concatenation (y can only concat strings)
 print("Hi, I'm Peterson!," + " i am a Devops Engineer" + " learning Python")
 print("hi i'm" +  name + " I am a DevOps Engineer" + " 24 years old")
 
@@ -36,4 +36,12 @@ age = input("What's your age?: ")
 name = input("What's your name?: ")
 bio = ("you are {} by name and you are {} by age".format(name, age))
 print(bio)
+
+#typecasting
+total = 500
+print("hey your expenses were $" + str(total) + " this month" )
+
+#ascii casting 97=a, a=97
+chr(97)
+ord("a")
 
