@@ -15,3 +15,10 @@ print(math.fsum(num3))
 #exponents (pow) * [a number to the power of another number]
 #print(2**6) or
 print(math.pow(2,2))
+
+#####
+
+None != 0
+None != 0.0
+None != ""
+None != False
