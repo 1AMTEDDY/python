@@ -20,5 +20,5 @@ print(math.pow(2,2))
 
 None != 0
 None != 0.0
-None != ""
+None != "" #empty string
 None != False
