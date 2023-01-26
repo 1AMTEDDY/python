@@ -1,3 +1,4 @@
+#coding sprinkles
 #GOTO W3SCHOOLS STRING_METHODS
 greeting = "HELLO, DEY PLAY"
 name = "wetin be your name?"
