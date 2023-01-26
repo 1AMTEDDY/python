@@ -15,7 +15,7 @@ print(pi)
 full_list[2] = "pi"
 print(full_list)
 
-#printing out negative numbers prints from the back of the lists looping back one time through the list
+#printing out negative numbers prints from the back of the lists looping back one time through the list (Goes to the last item on the list basically)
 #printing out False
 print(full_list[-1])
 
