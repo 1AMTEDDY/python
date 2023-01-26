@@ -2,7 +2,7 @@
 # A data structure is a particular way of organizing data in a computer so that it can be used effectively
 # A list is a a DS in python that is a mutable, or changeable, its an ORDERED sequence of elements. Each element or value in the list is called an item. lists are defined by having values in a square bracket. []
 #our_list = [] #empty list
-our_list = [1] #empty list
+our_list = [1]
 full_list = ["Peter", 24, 3.14, False]
 print(full_list)
 #List Referencing, starting from 0 indexing
