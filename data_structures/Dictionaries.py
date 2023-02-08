@@ -21,3 +21,10 @@ print(x)
 #delete a key-value
 del x['name']
 print(x)
+
+#Example
+Address = {'house_number':3, 'street_name':'akoka', 'city':'shomolu', 'state':'lagos'}
+print(Address)
+
+Address['zip_code'] = '1100001'
+print(Address)
