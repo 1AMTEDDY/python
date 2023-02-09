@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 #they return a boolean value
 # == equality
 # != Inequality

@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 print(5 + 5)
 print('5' + '6') #concats the two strings
 print(7 * 3)

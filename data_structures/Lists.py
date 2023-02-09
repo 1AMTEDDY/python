@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 #without structure, there's only chaos
 # A data structure is a particular way of organizing data in a computer so that it can be used effectively
 # A list is a a DS in python that is a mutable, or changeable, its an ORDERED sequence of elements. Each element or value in the list is called an item. lists are defined by having values in a square bracket. []

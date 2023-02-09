@@ -1,6 +1,7 @@
 #Key-Value Store
 #An unordered collection of data values, used to store data values like a map. uses 'key':value separated by a comma for the next key-value
 #our_dict = {} empty dictionary
+#!/usr/local/bin/python3
 x = {'name':'Peter', 'age':2}
 print(type(x))
 print(x)

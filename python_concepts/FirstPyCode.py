@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 print("hi world")
 #code print's ("hi world")
 

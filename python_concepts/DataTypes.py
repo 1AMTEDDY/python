@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 #Typecasting interpret this as whatever type you define
 int("5")
 

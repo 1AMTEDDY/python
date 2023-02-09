@@ -1,4 +1,5 @@
-#coding sprinkles
+#!/usr/local/bin/python3
+# coding sprinkles
 #GOTO W3SCHOOLS STRING_METHODS
 greeting = "HELLO, DEY PLAY"
 name = "wetin be your name?"
