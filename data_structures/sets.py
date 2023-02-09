@@ -5,4 +5,6 @@ x = set() #EMPTY SET
 y = {'hello', 2, 'you'}
 
 y.add('chair')
-y.remove(3)
+y.remove(2)
+print(y)
+
