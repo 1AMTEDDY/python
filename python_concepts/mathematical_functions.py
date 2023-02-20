@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 import math
 #floor rounds down
 from math import floor

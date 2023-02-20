@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 #A sequence of immutable python objects. are sequences, just like lists. The difference is: tuples cant be changed and they use parenthesis (), while lists can be changed and use square brackets []
 #ListsYouCantChange
 tuple = () #empty tuple, dont do this!
