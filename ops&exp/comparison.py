@@ -19,5 +19,5 @@ print(5 > len('five')) # you can also typecast
 print(5 < 6)
 print(5 >= 6) # would return false, if one condition returns true the whole thing is true
 print(5 >= 5) # returns true
-
+print("hello" * 3) # returns hellohellohello
 
