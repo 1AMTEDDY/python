@@ -1,6 +1,6 @@
 #!/usr/local/bin/python3
 fav_color = input("What is your favorite color?: ")
-
+#yo can determine how a code runs with if statements by defining conditions.
 #after writing if you have to refer the conditioner(variable) and then write the condition
 if fav_color == "red":
     print("That's not my Favorite color!")

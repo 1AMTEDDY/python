@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-#a loop statement that prints out the numbers 0 to 100,
+#a loop statement that prints out the numbers 0 to 100, runs code over and over again until a condition is met.
 #there is cases you can get a off by one error, you can make the while counter <= 100 to while counter < 101 to fix it or you make the while counter < 100 to while counter <= 100 to fix it
 counter = 0
 while counter <= 100:
