@@ -3,7 +3,7 @@
 #there is cases you can get a off by one error, you can make the while counter <= 100 to while counter < 101 to fix it or you make the while counter < 100 to while counter <= 100 to fix it
 counter = 0
 while counter <= 100:
-    if counter % 3 == 0 and counter % 5 == 0: #i'd think put the most specific condition first. if statements when matched will stop running the rest of the if statements.
+    if counter % 15 == 0: #i'd think put the most specific condition first. if statements when matched will stop running the rest of the if statements.
         print("fizzbuzz")
     elif counter % 3 == 0:
         print("fizz")
